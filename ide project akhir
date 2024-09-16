@@ -12,5 +12,10 @@ A. REFRENSI PERTANYAAN
     Menghambat perubahan iklim dapat dilakukan dengan beberapa cara, seperti menghemat penggunan energi, beralih menggunakan transportasi umum, dan menerapkan rinsip 3R (Recycle, Reduce, dan Reuse)
 
 B. IDE
-Membuat bot discord, dan dapat mendeteksi mana kendaraan yang lebih banyak menghasilkan polusi menggunakan ai
+- Membuat bot discord
+- Dapat mendeteksi mana kendaraan yang lebih banyak menghasilkan polusi menggunakan ai
+ objek yang diidentifikasi :
+ - antara barang pemicu pollutan, dan barang ramah untuk lingkungan
+ - deteksi polusi dari kendaraan
+ - kaca, deforestasi, industri
  
